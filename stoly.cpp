@@ -1,10 +1,4 @@
-/******************************************************************************
 
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 
 #include <iostream>
 
@@ -12,7 +6,7 @@ using namespace std;
 
 const int MAXN = 100*1000+10;
 
-//naLewo[i] = kogo chce miec osoba i po lewej stronie
+//naLewo[i] = kogo chce mie osoba i po lewej stronie
 int naLewo[MAXN];
 boold sprawdzony[MAXN]
 
